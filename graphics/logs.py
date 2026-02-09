@@ -5,7 +5,6 @@ from datetime import datetime
 from consts import MAX_SIZE_PER_LOG_FILE, LOG_FOLDER,BACKUP_COUNT,SWITCH_TO_MEASURE_SCREEN_PRESSURE_THRESHOLD,dic_lang
 
 
-
 class DateBasedFileHandler(logging.Handler):
     def __init__(self, log_folder, max_bytes):
         super().__init__()
