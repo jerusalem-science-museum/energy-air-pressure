@@ -1,0 +1,21 @@
+Summary from 2025-08-01 00:00:00 to 2025-09-30 23:59:59 (61 days)
+Log data time range: 2025-08-01 08:37:39 to 2025-09-30 16:48:03 (61 days)
+
+Total Bottle ignited: 56500
+Total english language: 8851
+Total hebrew language: 8825
+Total arabic language: 8837
+Total language changes: 26513
+
+Average Bottle ignited per day: 926.23
+Average english language per day: 145.10
+Average hebrew language per day: 144.67
+Average arabic language per day: 144.87
+Average total language changes per day: 434.64
+
+Good runs: 56500 / 83013 (68.06%)
+
+---
+UI restarts between 09:30 and 18:00: 16
+Arduino disconnections between 09:30 and 18:00: 7
+Error parsing data: 0
