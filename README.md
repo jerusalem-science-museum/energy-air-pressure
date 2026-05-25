@@ -12,14 +12,9 @@ This repository forms part of the Museum's "Energy" exhibition series. It provid
 * **Hardware Control (Optional):** Controls physical relays or compressors to demonstrate mechanical work driven by air pressure.
 * **Idle/Attract Mode:** Runs a screensaver or instructional animation when no visitor interactions are detected.
 
-## 🛠️ Requirements & Installation
+## 🛠️ Requirements 
 
 ### Prerequisites
 * Python 3.8 or higher
 * Pip (Python package installer)
 
-### Installation
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/jerusalem-science-museum/energy-air-pressure.git](https://github.com/jerusalem-science-museum/energy-air-pressure.git)
-   cd energy-air-pressure
