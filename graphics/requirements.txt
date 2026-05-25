@@ -1,0 +1,17 @@
+# ==============================================================================
+# Requirements for Jerusalem Science Museum - Energy & Air Pressure Exhibit
+# ==============================================================================
+
+# Hardware Communication & Sensor Interfacing
+pyserial>=3.5            # Communication with Arduino / Microcontrollers via USB/Serial
+
+# User Interface & Graphics
+pygame>=2.5.2            # Game loop, animations, audio, and full-screen museum display
+# PyQt6>=6.6.1           # Alternative: Advanced GUI framework if Pygame is not used
+
+# Data Visualization & Processing
+matplotlib>=3.8.0        # Real-time graphing of pressure changes and energy curves
+numpy>=1.26.0            # Fast mathematical processing for sensor data smoothing
+
+# System & Environment
+python-dotenv>=1.0.1     # Environment variable management (ports, screen configurations)
